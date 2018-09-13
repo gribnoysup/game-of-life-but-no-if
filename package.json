@@ -1,0 +1,21 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./start.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "log-update": "^2.3.0"
+  }
+}
